@@ -1,11 +1,5 @@
 
-/*
-    N220
-    Hieu Nguyen
-    Week 12 assignment
-    My pet dragon
 
-*/
 
 //create class Dragon
 class Dragon{
