@@ -1,11 +1,4 @@
 
-/*
-    N220
-    Hieu Nguyen
-    Week 12 assignment
-    My pet dragon
-
-*/
 function main(){
     //instantiate class Dragon
     let dragon = new Dragon('Durango', 50, 50);
